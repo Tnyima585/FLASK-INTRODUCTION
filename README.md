@@ -1,2 +1,5 @@
 # FLASK-INTRODUCTION
-Tutorial started from a decade ago but remained stagged because of other immediate pending studies
+Tutorial started from a decade ago but remained stagged because of other immediate pending studies...
+tutorial content from FreeCodeCamp under title Learn Flask From Python - Full Tutorial...
+The dataBase used is SQLITE3
+
